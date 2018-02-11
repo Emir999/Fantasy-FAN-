@@ -5,7 +5,7 @@ import "./ERC20Standard.sol";
 contract NewToken is ERC20Standard {
 	function NewToken() {
 		totalSupply = 10000000;
-		name = "Best ever coin";
+		name = "FANTAZY Token";
 		decimals = 8;
 		symbol = "FAN";
 		version = "1.0";
